@@ -2,8 +2,6 @@
 
 A clean and professional personal portfolio website built using HTML and CSS. It showcases my projects, technical skills, education, certifications, and includes a contact form and downloadable resume.
 
-## 🔗 Live Demo
-[Visit Website](https://your-username.github.io/portfolio) <!-- Replace with your actual GitHub Pages link -->
 
 ## 📌 Features
 - 💻 Projects with GitHub links
